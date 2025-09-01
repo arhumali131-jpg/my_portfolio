@@ -1,0 +1,9 @@
+.div {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg);  
+  background-size: contain;
+  width:100vw;
+  height: 500px;
+}
+h1 {
+ justify-self: end;
+}
